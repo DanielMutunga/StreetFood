@@ -1,7 +1,7 @@
 *{
     padding: 0;
     margin: 0;
-    font-family: 'Poppins';
+    font-family:sans-serif, 'Poppins';
 }
 .sectionone{
     height: 100vh;
@@ -165,7 +165,7 @@
     flex-direction: column;
     align-items: center;
     justify-content: space-between;
-    background-color: #6CB840;
+    background-color: #C9ECB5;
 }
 .items{
     height: 90%;
@@ -179,15 +179,18 @@
     height: 100%;
     width: 50%;
     position: relative;
-    background-color: wheat;
 }
 .items .phototext{
     height: 100%;
     width: 50%;
-    background-color: rgb(22, 21, 19);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: start;
+    text-align: center;
 }
 .photo .juice{
-    height: 400px;
+    height: 470px;
     width: 300px;
     margin-bottom: 150px;
     margin-left: -130px;
@@ -198,5 +201,30 @@
     width: 450px;
     position: absolute;
     right: 0%;
-    margin-top: 60px;
+    margin-top: 120px;
+}
+.sectionfour span{
+    color: #6CB840;
+}
+.phototext h1{
+    color: #6CB840;
+    margin-bottom: 10px;
+    font-size: 35px;
+    margin-top: -40px;
+}
+.phototext .center{
+    margin-bottom: 10px;
+    font-size: 25px;
+}
+.phototext .last{
+    margin-bottom: 10px;
+    font-size: 25px;
+}
+.phototext p{
+    font-size: 13px;
+    line-height: 1.5;
+}
+.heading{
+    padding-top: 20px;
+    padding-right: 100px;
 }
