@@ -148,6 +148,9 @@
     color: #323232;
     font-size: 12px;
 }
+/* End of section Three */
+
+/* Start Of section Four */
 .sectionfour{
     height: 60vh;
     width: 100%;
@@ -163,4 +166,37 @@
     align-items: center;
     justify-content: space-between;
     background-color: #6CB840;
+}
+.items{
+    height: 90%;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+.items .photo{
+    height: 100%;
+    width: 50%;
+    position: relative;
+    background-color: wheat;
+}
+.items .phototext{
+    height: 100%;
+    width: 50%;
+    background-color: rgb(22, 21, 19);
+}
+.photo .juice{
+    height: 400px;
+    width: 300px;
+    margin-bottom: 150px;
+    margin-left: -130px;
+    
+}
+.photo .Burger{
+    height: 270px;
+    width: 450px;
+    position: absolute;
+    right: 0%;
+    margin-top: 60px;
 }
