@@ -83,7 +83,7 @@
 .upperdiv .one{
     height: 80%;
     width: 25%;
-    margin-left: 40px;
+    margin-left: 15px;
     background-color: white;
     border-radius: 0 0 30px 0;
 }
@@ -96,7 +96,7 @@
 .upperdiv .three{
     height: 80%;
     width: 25%;
-    margin-right: 40px;
+    margin-right: 15px;
     background-color: white;
     border-radius: 0 0 30px 0;
 }
@@ -111,7 +111,7 @@
 .lowerdiv .four{
     height: 80%;
     width: 25%;
-    margin-left: 40px;
+    margin-left: 15px;
     background-color: white;
     border-radius: 0 0 30px 0;
 }
@@ -124,11 +124,15 @@
 .lowerdiv .six{
     height: 80%;
     width: 25%;
-    margin-right: 30px;
+    margin-right: 15px;
     background-color: white;
     border-radius: 0 0 30px 0;
 }
 .sectionthree .maindiv h2{
     font-size: 18px;
     padding: 10px 10px;
+}
+.inside img{
+    margin-left: -70px;
+    margin-top: 15px;
 }
