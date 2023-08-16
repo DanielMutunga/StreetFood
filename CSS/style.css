@@ -282,3 +282,22 @@ input{
 .sectionfive span{
     color: #6CB840;
 }
+/* End of section five */
+
+/* Start of section Six */
+.sectionsix{
+    height: 40vh;
+    width: 100%;
+    display: flex;
+    align-items: last baseline;
+    justify-content: center;
+}
+.sectionsix .maindiv{
+    height: 90%;
+    width: 65%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: start;
+    background-color: #C9ECB5;
+}
