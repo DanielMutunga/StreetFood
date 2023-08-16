@@ -40,7 +40,7 @@
     justify-content: center;
     text-align: center;
 }
-.maindiv h1{
+.sectionTwo .maindiv h1{
     color: #EAAB1B;
     margin-bottom: 10px;
     font-size: 35px;
@@ -49,4 +49,75 @@
 }
 .maindiv p{
     font-size: 15px;
+}
+.sectionthree{
+    height: 70vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.sectionthree span{
+    color: #6CB840;
+}
+.sectionthree .maindiv{
+    height: 90%;
+    width: 70%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #C9ECB5;
+}
+.upperdiv{
+    height: 40%;
+    width: 90%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    background-color: wheat;
+}
+.upperdiv .one{
+    height: 80%;
+    width: 25%;
+    margin-left: 40px;
+    background-color: whitesmoke;
+}
+.upperdiv .two{
+    height: 80%;
+    width: 25%;
+    background-color: whitesmoke;
+}
+.upperdiv .three{
+    height: 80%;
+    width: 25%;
+    margin-right: 40px;
+    background-color: whitesmoke;
+}
+.lowerdiv{
+    height: 40%;
+    width: 90%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    background-color: wheat;
+}
+.lowerdiv .four{
+    height: 80%;
+    width: 25%;
+    margin-left: 40px;
+    background-color: whitesmoke;
+}
+.lowerdiv .five{
+    height: 80%;
+    width: 25%;
+    background-color: whitesmoke;
+}
+.lowerdiv .six{
+    height: 80%;
+    width: 25%;
+    margin-right: 30px;
+    background-color: whitesmoke;
 }
