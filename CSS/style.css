@@ -228,3 +228,22 @@
     padding-top: 20px;
     padding-right: 100px;
 }
+/* End of section four */
+
+/* Start of section five */
+.sectionfive{
+    height: 60vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.sectionfive .maindiv{
+    height: 100%;
+    width: 65%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #FFD77C;
+}
