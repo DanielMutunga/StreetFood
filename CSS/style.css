@@ -304,10 +304,34 @@ input{
 .right{
     height: 100%;
     width: 50%;
+    display: flex;
+    flex-direction: row;
     background-color: yellow;
 }
 .left{
     height: 100%;
     width: 50%;
+    display: flex;
+    flex-direction: row;
     background-color: green;
+}
+.right .one{
+    height: 100%;
+    width: 50%;
+    background-color: wheat;
+}
+.right .two{
+    height: 100%;
+    width: 50%;
+    background-color: blue;
+}
+.left .follow{
+    height: 100%;
+    width: 50%;
+    background-color: #EAAB1B;
+}
+.left .instagram{
+    height: 100%;
+    width: 50%;
+    background-color: aquamarine;
 }
