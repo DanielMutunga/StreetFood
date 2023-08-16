@@ -132,6 +132,11 @@
     font-size: 18px;
     padding: 10px 10px;
 }
+.inside{
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+}
 .inside img{
     margin-left: -70px;
     margin-top: 15px;
