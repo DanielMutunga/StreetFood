@@ -232,7 +232,7 @@
 
 /* Start of section five */
 .sectionfive{
-    height: 60vh;
+    height: 55vh;
     width: 100%;
     display: flex;
     align-items: center;
@@ -244,6 +244,26 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    justify-content: center;
+    justify-content: start;
     background-color: #FFD77C;
+}
+.sectionfive h1{
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+.sectionfive p{
+    text-align: center;
+    line-height: 1.3;
+    padding-bottom: 20px;
+}
+input{
+    height: 40px;
+    width: 40%;
+    border-radius: 25px;
+    border: none;
+}
+::placeholder{
+    color: black;
+    padding-left: 20px;
+    font-weight: 600;
 }
