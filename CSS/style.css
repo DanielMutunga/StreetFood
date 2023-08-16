@@ -306,32 +306,90 @@ input{
     width: 50%;
     display: flex;
     flex-direction: row;
-    background-color: yellow;
 }
 .left{
     height: 100%;
     width: 50%;
     display: flex;
     flex-direction: row;
-    background-color: green;
 }
 .right .one{
     height: 100%;
     width: 50%;
-    background-color: wheat;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border-right: dotted 2px #6CB840;
 }
 .right .two{
     height: 100%;
     width: 50%;
-    background-color: blue;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
 }
 .left .follow{
     height: 100%;
     width: 50%;
-    background-color: #EAAB1B;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    text-align: left;
+    justify-content: center;
+    margin-left: 240px;
 }
 .left .instagram{
     height: 100%;
-    width: 50%;
-    background-color: aquamarine;
+    width: 20%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: center;
+}
+.Top{
+    margin-bottom: 50px;
+    margin-top: 5px;
+}
+.sectionsix h2{
+    font-size: 15px;
+}
+.btm{
+    margin-top: 5px;
+}
+.sectionsix p{
+    font-weight: 500;
+    font-size: 12px;
+}
+.numbers{
+    margin-bottom: 50px;
+    position: relative;
+}
+.kati{
+    margin-top: 15px;
+    position: absolute;
+}
+.katikati{
+    margin-top: 5px;
+    line-height: 1.6;
+    margin-bottom: 10px;
+    font-size: 10px;
+}
+.sectionsix img{
+    margin-right: 30px;
+    margin-bottom: 60px;
+    position: relative;
+}
+.instagram button{
+    padding: 5px 13px;
+    border: none;
+    color: white;
+    margin-right: 10px;
+    margin-top: 40px;
+    position: absolute;
+    background-color: #6CB840;
+}
+.follo{
+    margin-top: 10px;
 }
