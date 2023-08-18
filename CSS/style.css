@@ -4,7 +4,7 @@
     font-family:sans-serif, 'Poppins';
 }
 .sectionone{
-    height: 75vh;
+    height: 80vh;
     width: 100%;
     display: flex;
     align-items: center;
@@ -241,20 +241,20 @@
     justify-content: space-between;
 }
 .upperdiv .one{
-    height: 60%;
+    height: 70%;
     width: 22%;
     margin-left: 15px;
     background-color: white;
     border-radius: 0 0 30px 0;
 }
 .upperdiv .two{
-    height: 60%;
+    height: 70%;
     width: 22%;
     background-color: white;
     border-radius: 0 0 30px 0;
 }
 .upperdiv .three{
-    height: 60%;
+    height: 70%;
     width: 22%;
     margin-right: 15px;
     background-color: white;
@@ -269,20 +269,20 @@
     justify-content: space-between;
 }
 .lowerdiv .four{
-    height: 60%;
+    height: 70%;
     width: 22%;
     margin-left: 15px;
     background-color: white;
     border-radius: 0 0 30px 0;
 }
 .lowerdiv .five{
-    height: 60%;
+    height: 70%;
     width: 22%;
     background-color: white;
     border-radius: 0 0 30px 0;
 }
 .lowerdiv .six{
-    height: 60%;
+    height: 70%;
     width: 22%;
     margin-right: 15px;
     background-color: white;
@@ -300,7 +300,7 @@
 }
 .inside img{
     margin-left: -70px;
-    margin-top: -20px;
+    margin-top: -10px;
 }
 .inside p{
     color: #323232;
