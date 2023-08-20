@@ -1,7 +1,5 @@
 # Independent Project #3 | StreetFood Website
 
-### Daniel Mutunga
-
 ## Description
 
 Employ the HTML and CSS design concepts that you have covered so far in reproducing the landing page of a restaurants website illustrated below:
@@ -76,5 +74,10 @@ code .
 ## Screenshots/Samples.
 
 Take a look on some of the Samples of the project.
+![Explore_Section](https://github.com/DanielMutunga/StreetFood/assets/122822041/56c5f99e-d504-4e49-9e40-8d7a3ecaf360)
+![HomePage_ ScreenShot](https://github.com/DanielMutunga/StreetFood/assets/122822041/b53d11f8-9c93-4651-b6c1-8bf043d30f76)
 
+## Author
+
+[Daniel Mutunga]
 
