@@ -2,7 +2,7 @@
 
 ### Daniel Mutunga
 
-### Description
+## Description
 
 Employ the HTML and CSS design concepts that you have covered so far in reproducing the landing page of a restaurants website illustrated below:
 
@@ -31,8 +31,35 @@ The following are the background menus and the screen menu text colors for the p
 
 ## Tools Used in creation
 
-- HTML
+This project was built with the following:
 
-- CSS
+- HTML5
+
+- CSS3
 
 - VS code 
+
+## Pre-requisites for setting up.
+
+In order to order to try out this Project you will need the following:
+
+- Linux / Windows / MacOS
+
+- 5GB free space
+
+- 2GB RAM
+
+- A bigger Screen. Items apper to be overlapping in small screens.
+
+NB: `*Created usiing Lenovo B590,Not yet responsive on other devices*`
+
+## Set up instructions.
+
+This will guide you through how you can apply and run this project on your screen.
+
+1. Clone this repository into your local Machine. One your computer, open the `terminal` (*Linux / MacOS*) OR `GitBash` (*Windows*)
+
+```
+git clone 
+```
+2. 
