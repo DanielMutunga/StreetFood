@@ -79,5 +79,17 @@ Take a look on some of the Samples of the project.
 
 ## Author
 
-[Daniel Mutunga]
+- [Daniel Mutunga](https://github.com/DanielMutunga)
+
+  ## Known Issues;
+
+  - The project was created using a Lenovo B590, it may not be able to respond to small screens.
+ 
+  ## License
+
+  This project has been distributed under the MIT license
+
+  ```
+
+  ```
 
