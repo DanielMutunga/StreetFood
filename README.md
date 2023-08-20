@@ -74,8 +74,11 @@ code .
 ## Screenshots/Samples.
 
 Take a look on some of the Samples of the project.
-![Explore_Section](https://github.com/DanielMutunga/StreetFood/assets/122822041/56c5f99e-d504-4e49-9e40-8d7a3ecaf360)
+  - ### Home Page
 ![HomePage_ ScreenShot](https://github.com/DanielMutunga/StreetFood/assets/122822041/b53d11f8-9c93-4651-b6c1-8bf043d30f76)
+
+  - ### Explore Section
+![Explore_Section](https://github.com/DanielMutunga/StreetFood/assets/122822041/56c5f99e-d504-4e49-9e40-8d7a3ecaf360)
 
 ## Author
 
@@ -90,6 +93,26 @@ Take a look on some of the Samples of the project.
   This project has been distributed under the MIT license
 
   ```
+  MIT License
 
+Copyright (c) 2023 DanielMutunga
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
   ```
 
