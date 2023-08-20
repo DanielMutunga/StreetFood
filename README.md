@@ -60,6 +60,21 @@ This will guide you through how you can apply and run this project on your scree
 1. Clone this repository into your local Machine. One your computer, open the `terminal` (*Linux / MacOS*) OR `GitBash` (*Windows*)
 
 ```
-git clone 
+git clone https://github.com/DanielMutunga/StreetFood.git
 ```
-2. 
+2. Change into the working directory;
+
+```
+cd StreetFood
+```
+3. Open in VS Code;
+```
+code .
+```
+4. Run on Chrome browser by opening it on `Liveserver`
+
+## Screenshots/Samples.
+
+Take a look on some of the Samples of the project.
+
+
