@@ -1,5 +1,8 @@
 # Independent Project #3 | StreetFood Website
 
+#### Live Link:
+- https://danielmutunga.github.io/StreetFood/
+
 ## Description
 
 Employ the HTML and CSS design concepts that you have covered so far in reproducing the landing page of a restaurants website illustrated below:
