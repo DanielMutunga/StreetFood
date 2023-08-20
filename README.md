@@ -52,7 +52,7 @@ In order to order to try out this Project you will need the following:
 
 - A bigger Screen. Items apper to be overlapping in small screens.
 
-NB: `*Created usiing Lenovo B590,Not yet responsive on other devices*`
+*NB:* `Created using Lenovo B590,Not yet responsive on other devices`
 
 ## Set up instructions.
 
